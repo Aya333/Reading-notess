@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Aya333/Reading-notess/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aya333/Reading-notess/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# About me :
+Hello everyone, i'm Ayah Smadi and i am a fresh graduate from the Hashemite University with a bachelors degree in *** Software engineering ***.
+I am very adventurous, i love reading and i love learning new things all the time, i aspire to  become a professional software engineer and becoming a fullstack developer is the first step towards my dream.
+## Table of context:
+ Readings | Links
+------------ | -------------
+Growth mindset|[Growth mindset](https://aya333.github.io/Reading-notess/growthmindset)
+Commands in terminal | [Commands](https://aya333.github.io/Reading-notess/commands)
+Learning markdown | [Markdown](https://aya333.github.io/Reading-notess/markdown)
+Content in the first column | [A begginers guide to terminal](https://aya333.github.io/Reading-notess/guide)
