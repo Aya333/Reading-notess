@@ -12,4 +12,3 @@ I am very adventurous, i love reading and i love learning new things all the tim
 |Learning markdown             |[Markdown](https://aya333.github.io/Reading-notess/markdown)                                   |
 |------------                  | -------------                                                                                 |
 |Content in the first column   | [A begginers guide to terminal](https://aya333.github.io/Reading-notess/guide)                |
-
