@@ -19,3 +19,5 @@ Process and design      | [Process and design](https://aya333.github.io/Reading-
 HTML5 Layout            | [HTML5 Layout](https://aya333.github.io/Reading-notess/layoutt)
 -------------           | -------------
 HTML development        | [HTML development](https://aya333.github.io/Reading-notess/htmll)
+-------------           | -------------
+HTML basics             | [HTML basics]()
