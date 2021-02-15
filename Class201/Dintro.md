@@ -5,6 +5,6 @@ I am very adventurous, i love reading and i love learning new things all the tim
 ## Table of context:
  Readings               | Links                                                                                         
 ------------            | -------------                                                                                 
-Reading01               |[Reading01](https://aya333.github.io/Reading-notess/gitintro)                        
-------------            | -------------                                                                                
+Reading01               |[Reading01](https://aya333.github/Reading-notess/gitintro)   
+                                                                                                                 
 Reading02               | [Reading02](https://aya333.github.io/Reading-notess/class201)                                  
