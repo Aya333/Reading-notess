@@ -33,7 +33,7 @@ For operators:
 *	Logical operator: Performs logical non mathematical operations.
 ### Note: Expressions depend on operators to perform tasks.
 A picture from the book on arithmetic operators:
- ![Arithmetic operators](ScreenshotAr.png)
+ ![Arithmetic operators](down.png)
 
 ## Functions are basically very helpful because instead of writing one big code that would have some repetitive lines and operations you can simply use functions to group specific related statements that together would perform a task.
 Functions syntax:

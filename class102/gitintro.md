@@ -5,11 +5,11 @@ I am very adventurous, i love reading and i love learning new things all the tim
 ## Table of context:
  Readings               | Links                                                                                         
 ------------            | -------------                                                                                 
-Growth mindset          |[Growth mindset](https://aya333.github.io/Reading-notess/growthmindset)                        
+Growth mindset          | [Growth mindset](https://aya333.github.io/Reading-notess/growthmindset)                        
 ------------            | -------------                                                                                
 Commands in terminal    | [Commands](https://aya333.github.io/Reading-notess/commands)                                  
 ------------            | -------------                                                                                 
-Learning markdown       |[Markdown](https://aya333.github.io/Reading-notess/markdown)                                   
+Learning markdown       | [Markdown](https://aya333.github.io/Reading-notess/markdown)                                   
 ------------            | -------------                                                                                 
 Terminal guide          | [A begginers guide to terminal](https://aya333.github.io/Reading-notess/guide) -------------           | -------------  
 HTML5 Layout            | [HTML5 layout](https://aya333.github.io/Reading-notess/layoutt)
@@ -19,5 +19,3 @@ Process and design      | [Process and design](https://aya333.github.io/Reading-
 HTML5 Layout            | [HTML5 Layout](https://aya333.github.io/Reading-notess/layoutt)
 -------------           | -------------
 HTML development        | [HTML development](https://aya333.github.io/Reading-notess/htmll)
--------------           | -------------
-HTML basics             | [HTML basics]()
