@@ -61,3 +61,22 @@ I have talked about functions in my past readings therefore i will be doing a qu
 
 Functions are a block of code that allows you to write the code once then run it whenever and as many times as you want, it's useful to minimize code repetions, all i have to do to execute it is just invoke it.
 
+## Now let's talk about pair programming:
+It contains two roles the " Driver & Navigator ", as the driver is the one writting the code and tha navigator is the brains who guides the user through the problem without giving the solution directly, they just provide and project the idea.
+
+Reasons to use pair programming:
+
+1- Greater efficiency.
+
+2- Engaged collaboration.
+
+3- Learning from fellow students.
+
+4- Social skills.
+
+5- Job interview readiness.
+
+6- Work environment readiness.
+
+# And that was it for this summary
+
