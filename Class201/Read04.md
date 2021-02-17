@@ -20,55 +20,44 @@ Syntax: Same syntax as the previous points with an exceptio in "href= you use th
 
 Syntax: all you have to do is use the 'Target' function after the link. "Target = _blank".
 
-5-**Linking to another part on the same page**: Which is  basically you link like a paragraph or a specific title on your page so that once you press on it it will take you to where the linked part is.
+5-**Linking to another part on the same page**: Which is basically you link like a paragraph or a specific title on your page so that once you press on it it will take you to where the linked part is.
 
 Syntax: all you have to do is simply you give the specified part an id and then call that id name using the id selector in the link part inside of the anchor specified in the previous points.
 
-## Note: Lists can be nested, which means that you can actually put a list inside another list.
+6-**Linking to another part on another page**: Which is basically you link like a paragraph or a specific title on your page to another part on another page or whole other website that once you press on it it will take you to where the linked part is.
+
+Syntax: The exact same syntax as the previous [5] point just make sure thhw parts you want to link have ID'S.
+## That was it for the Links.
 ------------------
 # CSS part:
-Basically CSS acts as a container or a box for the HTML elements therefore every element inside of it has dimensions that need to be set apprpriatley through some properties to make the web page more presentable.
+In this part we will be talking about the layout of the page and how to appropriately organize the "Containers" of my page in order to make it presentable and easier to control.
 
-To set the prperties of the page we need specific attributes such as :
+#### Display of layouts:
 
-1- Dimensions: Width & Height, so you can set dimensions it has a wide variety of measurments that you can control the way you please, also you can limit them by choosing the min and max attributes that are specified for both.
+1- Normal flow (static positioning): Whitch is the default position in CSS and basically its layout is about having each element on top of the other i'd like to think of as the layout of a normal book page.
 
-2- Overflowing content: Which is used specifically if the content inside is larger than the "BOX" to set it properly and it also has it's own attributes you can use:
+2- Relative positioning: Which basically has the elements in boxes with almost the same layout as the "Normal flow" but the difference here is thatwe can control each box on it's own and move them around but it affects the postioninhg of other boxes around it.
    
- - Hidden: Used to hide any extra content that does not fitinside the container.
 
- - Scroll: It adds a scroll bar so the you can scroll up & down ,left & right in the page to see the full content.
+ 3- Absolute positioning: Once you use it the box is completely out of the normal flow and it would be on its own (meaning whatever changes will be made on the element i this positioning will not apply to others in other postionings) also the page scrolls up & down with the movements of the bars.
 
- 3- Borders: You can set up a border for whatever part of your code you choose. It's good fo designing aand it has its own attributes such as (Width, height, margin, padding, style, color and types of borders).
+ 4- Fixed postioning: It's a type of the absolute postioning and it does the exact oopsite, meaning it has a value of fixed which basically you scroll up & down but it stays on the same position of the page.
 
- 4- Margins: sets the outer edges of the border and to creat gaps between containers.
+ 5- Z-index: Used to control elements when using absolute and fixed positions to control elements so that whenever the user scrolls the page each element stays in its place.
 
- 5- Padding: Sets up the edges of the content inside the border.
+ 6- Float: Allows you to put elements on specific parts of the page without affecting the main parts. 
 
- 6- Centering content: to put all content in the center of the page to make it more presentable. 
+7- Clear float: Decides where each element will appear and how and it has attributes (left, right, both, none).
+***Layouts have two types:***
 
-7- Display: It's about how the content will appear to the users.
+- Fixed layout: It has a fixed width of elements so whether the user zooms in or out it doesnt change its width.
 
-***Display types:***
+- Liquid layout: It changes its sizes based on users activities.
 
-- Inline: Displays an element as an inline element.
-
-- Block: Displays an element as a block element.
-
-- Inline-Block: Displays an element as an inline-level block container.
-
-- None: The element is completely removed.
-
-8- Visibility of boxes: They are either hidden or visible.
-
-9- Border images: Allows us to use images as borders of our content.
-
-10- Box shadows: This property attaches one or more shadows to an element.
-
-## That was it for the CSS.
+## Important to note is that there is a alayout type called grid which is cosidered to be the best and most used layout due to it's flexibility.
 ------------------
 # JavaScript part: 
+I have talked about functions in my past readings therefore i will be doing a quick recap here:
 
-Today i will be summarizing what i have learned about arrays in JS.
+Functions are a block of code that allows you to write the code once then run it whenever and as many times as you want, it's useful to minimize code repetions, all i have to do to execute it is just invoke it.
 
-An "Array" is a special type of variables that allows you to store a set of related values inside of it so you can operate easily on them later on.
