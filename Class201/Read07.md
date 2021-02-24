@@ -1,6 +1,6 @@
 ## My summary of the reading 07.
 # Domain moddeling:
-Domain modeling is sed to create a conceptual model for coding problems. And the point of it to give and help the developer get a deeper understanding of the problem and validate their information surrounding the solutions.
+Domain modeling is used to create a conceptual model for coding problems. And the point of it to give and help the developer get a deeper understanding of the problem and validate their information surrounding the solutions.
 
 1- When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
 
@@ -40,9 +40,6 @@ Tables are a huge part in the HTML as they allow us to further organize or data 
 # And its syntax:
 ![Syntax](images/syntax.png)
 
-
-
-# And that was it for this summary
 
 
 # And that was it for this summary
