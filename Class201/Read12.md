@@ -1,4 +1,6 @@
 # Charts in JS
+![Chart](images/chart.jpg)
+
 Using charts displays data and especially statistics in much easier and understandble way by almost everyone and therefore it is available in HTML5 t make it and write its code on your website to make much more organized.
 
 ### Makin charts in JS steps:
