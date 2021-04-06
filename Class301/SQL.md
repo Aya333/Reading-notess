@@ -86,4 +86,5 @@ you can use the DROP TABLE statement, which differs from the DELETE statement in
 Syntax:(DROP TABLE IF EXISTS mytable;)
 
 ![NodeJS](https://www.researchgate.net/profile/Sameem-Abdul-Kareem/publication/277736380/figure/fig2/AS:669387052826625@1536605718015/Flowchart-for-translation-to-SQL-statement.png)
+
 # And that was it for this summary.
