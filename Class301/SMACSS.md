@@ -67,5 +67,6 @@ If you are in a situation where you always know what the succeeding element is g
 # What are floats used for?
 Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 
+![Responsive Designs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNY4LAO1jkWpuf5V7yVWWY8Xr4fEWSf8LKrQ&usqp=CAU.)
 
 # And that was it for this summary.
